@@ -1,4 +1,4 @@
-#TODO 
+# TODO 
 #### Android Application that implements MVP design pattern
 
 High level Requirements:
